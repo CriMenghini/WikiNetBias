@@ -1,0 +1,8 @@
+{'Category:Cannabis_prohibition', 'Category:Anti-cannabis_media', 
+'Category:Anti-cannabis_public_service_announcements', 'Category:Anti-cannabis_operations',
+'Category:Marihuana_Tax_Act_of_1937', 'Category:Opposition_to_cannabis_legalization'}
+
+{'Category:Cannabis_activism', 'Category:Cannabis_activists', 'Category:American_cannabis_activists', 
+'Category:British_cannabis_activists', 'Category:Bloc_pot_politicians', 'Category:Dutch_cannabis_activists',
+'Category:Irish_cannabis_activists', 'Category:Japanese_cannabis_activists', 'Category:Canadian_cannabis_activists',
+'Category:Aotearoa_Legalise_Cannabis_Party_politicians', 'Category:New_Zealand_cannabis_activists','Category:Swedish_cannabis_activists'}

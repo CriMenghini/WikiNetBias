@@ -1,0 +1,13 @@
+https://dumps.wikimedia.org/other/clickstream/2019-08/clickstream-enwiki-2019-08.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2019-09/clickstream-enwiki-2019-09.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2019-10/clickstream-enwiki-2019-10.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2019-11/clickstream-enwiki-2019-11.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2019-12/clickstream-enwiki-2019-12.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-01/clickstream-enwiki-2020-01.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-02/clickstream-enwiki-2020-02.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-03/clickstream-enwiki-2020-03.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-04/clickstream-enwiki-2020-04.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-05/clickstream-enwiki-2020-05.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-06/clickstream-enwiki-2020-06.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-07/clickstream-enwiki-2020-07.tsv.gz
+https://dumps.wikimedia.org/other/clickstream/2020-08/clickstream-enwiki-2020-08.tsv.gz

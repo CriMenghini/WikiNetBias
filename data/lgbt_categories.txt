@@ -1,0 +1,23 @@
+{'Category:Discrimination_against_LGBT_people','Category:Organizations that oppose LGBT rights in the United States', 
+'Category:Violence against LGBT people in Asia', 'Category:Discrimination_against_LGBT_people', 
+'Category:Discrimination against LGBT people in Germany', 'Category:Violence against LGBT people in the United Kingdom', 
+'Category:Discrimination against LGBT people by country', 'Category:Violence against LGBT people in the United States',  
+'Category:Violence against LGBT people', 'Category:Documentary films about violence against LGBT people', 'Category:Persecution of LGBT people in Germany',
+ 'Category:Discrimination against LGBT people in the United States', 'Category:Organizations that oppose same-sex marriage', 'Category:Persecution of LGBT people', 
+ 'Category:Violence against LGBT people in Europe', 'Category:National Organization for Marriage people', 
+ 'Category:National Organization for Marriage', 'Category:Organizations that oppose LGBT rights', 'Category:LGBT erasure'}
+
+
+ {'Category:LGBT_rights_movement', 'Category:Intersex rights organizations', 'Category:LGBT rights activists', 'Category:LGBT political advocacy groups in Chile', 
+ 'Category:LGBT civil rights demonstrations', 'Category:LGBT rights organizations', 'Category:LGBT political advocacy groups in Canada', 
+ 'Category:LGBT political advocacy groups in Botswana', 'Category:LGBT rights activists from Botswana', 'Category:Organizations that support LGBT people', 
+ 'Category:LGBT rights activists by nationality', 'Category:LGBT rights activists from Belgium', 'Category:LGBT political advocacy groups in the Bahamas', 
+'Category:LGBT rights activists from Austria', 'Category:LGBT rights activists from Australia', 
+ 'Category:LGBT political advocacy groups in Denmark', 'Category:LGBT_rights_movement', 'Category:LGBT political advocacy groups in Brazil', 
+ 'Category:LGBT rights activists from Albania', 'Category:Transgender rights activists', 'Category:LGBT rights activists from Argentina', 
+ 'Category:LGBT political advocacy groups in Belarus', 'Category:LGBT rights activist stubs', 'Category:LGBT political advocacy groups in Australia', 
+ 'Category:LGBT political advocacy groups by country', 'Category:LGBT anarchism', 'Category:LGBT rights activists from Barbados', 
+ 'Category:LGBT political advocacy groups in Bulgaria', 'Category:Intersex rights activists', 'Category:LGBT rights activists from Brazil', 
+ 'Category:LGBT rights activists from Bulgaria', 'Category:LGBT political advocacy groups in Austria', 'Category:Organizations that support same-sex marriage',
+  'Category:LGBT communists', 
+ 'Category:LGBT political advocacy groups in Greenland', 'Category:Bisexual rights activists', 'Category:LGBT rights activists from Belize'}
